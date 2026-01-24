@@ -27,9 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyuun0suke&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyuun0suke&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
 
