@@ -1,7 +1,7 @@
 # ⛩️ こんにちは, I'm riyuun0suke
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Android%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Flutter%20Enthusiast%20•%20Learning%20Japanese&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Android%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Kotlin%20Enthusiast%20•%20Learning%20Japanese&descAlignY=55&descSize=20" width="100%" />
 </p>
 
 <p align="right">
@@ -13,7 +13,7 @@
 ### 📝 Profile | 自己紹介
 
 * 🤖 **Android Developer**: Passionate about building high-quality mobile applications and exploring the latest Android trends.
-* 💙 **Flutter Enthusiast**: I love the efficiency of Flutter and the elegance of Dart for cross-platform solutions.
+* 💙 **Kotlin Enthusiast**: I love the efficiency of Kotlin and the native solutions.
 * ☁️ **Google Fanboy**: Deeply integrated into the Google ecosystem, from Firebase to Google Cloud and Pixel devices.
 * 🇯🇵 **Japan Aspirant**: Currently learning Japanese (日本語). My ultimate dream is to move to Japan and contribute to its tech industry.
 * 🛡️ **Tech Explorer**: Interested in Linux systems, cybersecurity (Kali), and virtualization.
