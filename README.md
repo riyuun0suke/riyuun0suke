@@ -16,7 +16,7 @@
 * 💙 **Kotlin Enthusiast**: I love the efficiency of Kotlin and the native solutions.
 * ☁️ **Google Fanboy**: Deeply integrated into the Google ecosystem, from Firebase to Google Cloud and Pixel devices.
 * 🇯🇵 **Japan Aspirant**: Currently learning Japanese (日本語). My ultimate dream is to move to Japan and contribute to its tech industry.
-* 🛡️ **Tech Explorer**: Interested in Linux systems, cybersecurity (Kali), and virtualization.
+* 🛡️ **Tech Explorer**: Interested in Linux systems, Android system, and virtualization.
 
 ---
 
